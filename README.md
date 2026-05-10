@@ -1,6 +1,6 @@
 # GitHub Pages Dateien
 
-Dieser Ordner enthaelt eine einfache statische Website fuer die rechtlichen Seiten von `KidsCastPlayer`.
+Dieser Ordner enthaelt eine einfache statische Website fuer die rechtlichen Seiten von `Owlyo Podcast Player`.
 
 ## Inhalt
 
@@ -14,9 +14,9 @@ Dieser Ordner enthaelt eine einfache statische Website fuer die rechtlichen Seit
 ## Vor dem Deployment
 
 1. Platzhalter ersetzen:
-   - `[VORNAME NACHNAME]`
-   - `[STRASSE, HAUSNUMMER, PLZ ORT, LAND]`
-   - `[SUPPORT-E-MAIL]`
+   - `Benjamin Jürgens`
+   - `Postfach folgt`
+   - `owlyo-support@bendreality.de`
 2. Lokal testen, indem `index.html` im Browser geoeffnet wird.
 
 ## Deployment-Hinweis
