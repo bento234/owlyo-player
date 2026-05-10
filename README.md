@@ -1,1 +1,3 @@
-# owlyo-player.github.io
+# OwlyO - Podcast player
+
+The (very) fair podcast player
