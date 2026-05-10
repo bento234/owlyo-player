@@ -5,8 +5,11 @@ Dieser Ordner enthaelt eine einfache statische Website fuer die rechtlichen Seit
 ## Inhalt
 
 - `index.html` - Startseite mit Links
+- `index-en.html` - English start page with links
 - `datenschutz.html` - Datenschutzerklaerung
+- `privacy-policy.html` - Privacy Policy (English)
 - `impressum.html` - Impressum
+- `legal-notice.html` - Legal Notice / Imprint (English)
 - `styles.css` - gemeinsames Styling
 - `404.html` - Fallback/Weiterleitung
 - `.nojekyll` - deaktiviert Jekyll-Verarbeitung auf GitHub Pages
