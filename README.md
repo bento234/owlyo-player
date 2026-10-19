@@ -16,10 +16,7 @@ Dieser Ordner enthaelt eine einfache statische Website fuer die rechtlichen Seit
 
 ## Vor dem Deployment
 
-1. Platzhalter ersetzen:
-   - `Benjamin Jürgens`
-   - `Postfach folgt`
-   - `owlyo-support@bendreality.de`
+1. Stammdaten sind eingetragen (Stand 10.10.2026). Bei Aenderungen alle vier Rechtsseiten (DE + EN) anpassen.
 2. Lokal testen, indem `index.html` im Browser geoeffnet wird.
 
 ## Deployment-Hinweis
